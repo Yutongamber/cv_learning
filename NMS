@@ -1,7 +1,0 @@
-"""
-write your own code of NMS in C++ or Python.
-"""
-
-def NMS(lists, thre): 
-  # lists is a list. lists[0:4]: x1, x2, y1, y2; lists[4]: score
-  
